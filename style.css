@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.display {
+    border: 2px solid black;
+    width: 135px;
+    height: 20px;
+    margin: 2px;
+}
+
+button {
+    width: 40px;
+    height: 40px;
+    margin: 2px;
+}
+
+.top {
+    display: flex;
+    gap: 2px
+}
+
+#clr-btn {
+    height: 24px;
+}
+
